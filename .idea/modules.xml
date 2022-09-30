@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Lab_Participation.iml" filepath="$PROJECT_DIR$/.idea/modules/Lab_Participation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Lab_Participation.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
