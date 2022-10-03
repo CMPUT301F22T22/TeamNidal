@@ -6,5 +6,7 @@ public class Shape {
     
     String color = "blue";
 
+    String color = "$PUT_YOUR_CHOICE_OF_COLOR";
+
 
 }
